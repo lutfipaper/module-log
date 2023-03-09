@@ -16,7 +16,7 @@ import (
 	"github.com/google/uuid"
 	json "github.com/json-iterator/go"
 	"github.com/jwalton/gchalk"
-	"github.com/lutfiharidha/logger-go/interfaces"
+	"github.com/lutfipaper/moddule-log/interfaces"
 	"gopkg.in/natefinch/lumberjack.v2"
 )
 

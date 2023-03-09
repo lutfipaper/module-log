@@ -1,4 +1,4 @@
-module github.com/lutfiharidha/logger-go
+module github.com/lutfipaper/moddule-log
 
 go 1.20
 
