@@ -1,4 +1,4 @@
-module github.com/lutfipaper/moddule-log
+module github.com/lutfipaper/module-log
 
 go 1.20
 
